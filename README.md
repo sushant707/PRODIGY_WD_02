@@ -15,11 +15,4 @@ Crafted a stopwatch using HTML, CSS, and JavaScript. Now, you can effortlessly m
 - Timers: Regular intervals for updating time display.
 - Formatting: User-friendly time representation.
 
-Explore the live demo [Click here...](https://rishavy.github.io/PRODIGY_WD_02/)
-
-## Getting Started
-
-- Clone the repository:
-
-   ```bash
-   git clone https://github.com/rishavy/PRODIGY_WD_02.git
+Explore the live demo [Click here...](https://prodigy-wd-02-d06qmbf3h-sushant707s-projects.vercel.app/)
